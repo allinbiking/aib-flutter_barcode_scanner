@@ -1,9 +1,9 @@
-group 'com.amolg.flutterbarcodescanner'
-version '1.0-SNAPSHOT'
-
 plugins {
     id "com.android.library"
 }
+
+group 'com.amolg.flutterbarcodescanner'
+version '1.0-SNAPSHOT'
 
 rootProject.allprojects {
     repositories {
@@ -13,11 +13,11 @@ rootProject.allprojects {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
     namespace "com.amolg.flutterbarcodescanner"
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 30
+        targetSdkVersion 33
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     lintOptions {
