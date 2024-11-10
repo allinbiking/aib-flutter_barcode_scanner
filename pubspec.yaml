@@ -5,15 +5,16 @@ author: Amol Gangadhare <amol.gangadhare@gmail.com>
 homepage: https://github.com/AmolGangadhare/flutter_barcode_scanner
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: ">=1.12.0"
+  sdk: ^3.5.4
+  flutter: 3.24.4
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_plugin_android_lifecycle: ^2.0.1
+  flutter_plugin_android_lifecycle: ^2.0.23
+
 dev_dependencies:
-  pedantic: ^1.11.0
+  pedantic:
   test: ^1.16.8
 
 flutter:

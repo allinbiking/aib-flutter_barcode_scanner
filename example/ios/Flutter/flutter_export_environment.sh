@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/carlosalejandrofalcon/Documents/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/carlosalejandrofalcon/Documents/GitHub/aib-flutter_barcode_scanner/example"
+export "FLUTTER_ROOT=/Users/macos/development/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/macos/Desktop/qa-bit/all-in-biking/aib-flutter_barcode_scanner/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
